@@ -64,7 +64,7 @@ dimwishlist:item=1337707096&perks=839105230,1087426260,1354429876,4104185692
 dimwishlist:item=1337707096&perks=839105230,1087426260,1168162263,2458213969
 dimwishlist:item=1337707096&perks=839105230,1087426260,1354429876,2458213969
 
-//notes:Partial PvE Roll - Preffered Perks Fluted\Arrowhead\Smallbore and Tac\Appended Mag MW:Handling/Stability
+//notes:Partial PvE Roll - Preffered Perks Fluted\Arrowhead\Small Bore and Tac\Appended Mag MW:Handling/Stability
 dimwishlist:item=1337707096&perks=1168162263,4104185692
 dimwishlist:item=1337707096&perks=1168162263,2458213969
 dimwishlist:item=1337707096&perks=1354429876,4104185692
@@ -105,7 +105,7 @@ dimwishlist:item=1119734784&perks=1482024992,106909392,2779035018,3425386926
 dimwishlist:item=1119734784&perks=1482024992,1087426260,1820235745,3425386926
 dimwishlist:item=1119734784&perks=1482024992,1087426260,2779035018,3425386926
 
-//notes:Partial PvE Roll - Preffered Perks Fluted\Smallbore and Tac\Appended Mag MW:Any
+//notes:Partial PvE Roll - Preffered Perks Fluted\Small Bore and Tac\Appended Mag MW:Any
 dimwishlist:item=1119734784&perks=1820235745,3425386926
 dimwishlist:item=1119734784&perks=2779035018,3425386926
 
@@ -118,9 +118,13 @@ dimwishlist:item=3143732432&perks=3661387068,1885400500,2450788523,3350417888
 //notes:**4x4 God Roll** MW:Handling/Stability/Reload
 dimwishlist:item=3143732432&perks=1840239774,1561002382,3643424744,3425386926
 
-//notes:Partial PvE Roll - Preffered Perks
+//notes:PvE Roll MW:Handling/Stability/Reload
 dimwishlist:item=3143732432&perks=1840239774,1561002382,1820235745,3425386926
 dimwishlist:item=3143732432&perks=1392496348,1561002382,1820235745,3425386926
 dimwishlist:item=3143732432&perks=1392496348,1561002382,3643424744,3425386926
 dimwishlist:item=3143732432&perks=1482024992,1561002382,3643424744,3425386926
 dimwishlist:item=3143732432&perks=1482024992,1561002382,1820235745,3425386926
+
+//notes:Partial PvE Roll - Preffered Perks Fluted\Polygonal\Small Bore MW:Handling/Stability/Reload
+dimwishlist:item=3143732432&perks=3643424744,3425386926
+dimwishlist:item=3143732432&perks=1820235745,3425386926
