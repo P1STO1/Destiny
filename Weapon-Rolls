@@ -1,6 +1,6 @@
 ****Pistohl's DIM Wishlist 2.0****
 
-Fromat
+Format
 *******************************
 ***                         *** 
 **      "WEAPON CLASS"       **  
@@ -24,6 +24,8 @@ Fromat
 //notes:**Currated Roll**
 dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926
 
+
+
 // Arctic Haze 
 //notes:**Currated Roll**
 dimwishlist:item=20935540&perks=3250034553,1431678320,3096702027,3511092054#notes:**Curated Roll**
@@ -31,7 +33,6 @@ dimwishlist:item=20935540&perks=3250034553,1431678320,3096702027,3511092054#note
 //notes:**4x4 God Roll** MW:Handling\Stability
 dimwishlist:item=20935540&perks=1840239774,106909392,1820235745,1546637391
 dimwishlist:item=20935540&perks=1482024992,106909392,1820235745,1546637391
-
 
 //notes:PvE-
 dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,2848615171
@@ -46,8 +47,28 @@ dimwishlist:item=20935540&perks=1820235745,2848615171#notes:*Partial PvE God Rol
 
 
 
+// Chrysura Melo
+//notes:**Currated Roll**
+dimwishlist:item=1337707096&perks=839105230,106909392,2621346526,3592538738
 
+//notes:**4x4 God Roll** MW:Handling\Stability
+dimwishlist:item=1337707096&perks=1840239774,106909392,1168162263,4104185692
 
+//notes:PvE MW:Handling\Stability
+dimwishlist:item=1337707096&perks=839105230,106909392,1168162263,4104185692
+dimwishlist:item=1337707096&perks=839105230,106909392,1168162263,2458213969
+dimwishlist:item=1337707096&perks=839105230,106909392,1354429876,4104185692
+dimwishlist:item=1337707096&perks=839105230,106909392,1354429876,2458213969
+dimwishlist:item=1337707096&perks=839105230,1087426260,1168162263,4104185692
+dimwishlist:item=1337707096&perks=839105230,1087426260,1354429876,4104185692
+dimwishlist:item=1337707096&perks=839105230,1087426260,1168162263,2458213969
+dimwishlist:item=1337707096&perks=839105230,1087426260,1354429876,2458213969
+
+//notes:Partial PvE Roll - Preffered Fluted\Arrowhead\Smallbore and Tac\Appended Mag MW:Handling/Stability
+dimwishlist:item=1337707096&perks=1168162263,4104185692
+dimwishlist:item=1337707096&perks=1168162263,2458213969
+dimwishlist:item=1337707096&perks=1354429876,4104185692
+dimwishlist:item=1337707096&perks=1354429876,2458213969
 
 
 
